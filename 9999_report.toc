@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Support request}{3}{section.1}
+\contentsline {section}{\numberline {2}Materials and Methods}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Available data}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Data processing}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Differential expression}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Exon usage}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}HOMER Motif Analysis}{5}{subsection.2.5}
+\contentsline {section}{\numberline {3}Work log}{5}{section.3}
+\contentsline {section}{\numberline {4}Important practical information}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Data responsibility}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Acknowledgments}{6}{subsection.4.2}
+\contentsline {section}{\numberline {5}Results}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Data exploration}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Differential expression}{8}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Estimating BCVs}{8}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}GR1: time2 vs. time1}{9}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}GR2: time2 vs. time1}{11}{subsubsection.5.2.3}
+\contentsline {section}{\numberline {6}Deliverables}{13}{section.6}
+\contentsline {section}{\numberline {7}R session info}{14}{section.7}
+\contentsline {section}{\numberline {8}Where to go next}{15}{section.8}
