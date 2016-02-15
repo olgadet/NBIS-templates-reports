@@ -163,9 +163,9 @@ Table count, containing counts measured across many genes and samples, is a typi
   library(xtable)
   library(DEXSeq)
 
-  dir.data <- "/Users/olga/Desktop/TemplateRNAseq/!Documentation/Results"
-  file.counts <- "/Users/olga/Desktop/TemplateRNAseq/!Documentation/Results/count_table.txt"
-  file.annotations <- "/Users/olga/Desktop/TemplateRNAseq/!Documentation/Results/count_table_annotations.txt"
+  dir.data <- "Results"
+  file.counts <- "Results/count_table.txt"
+  file.annotations <- "Results/count_table_annotations.txt"
 
   # Preparing samples group labels
     sample.time <- rep(c('time1','time2'), each=8)
